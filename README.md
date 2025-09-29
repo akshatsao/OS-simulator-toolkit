@@ -1,4 +1,4 @@
-# OS-simulator-toolkit
+# OS-simulator-toolkit(link:-https://youtu.be/vLF3_7F5gY8)
 This is a C++-based OS simulator that visualizes core operating system concepts. It offers a menu-driven console interface to explore CPU scheduling, memory management, page replacement, disk scheduling, deadlock detection, and thread synchronization.
 Project Description
 SchedulinAlgozzz is a comprehensive Operating System (OS) Simulator built in C++, designed to demonstrate and visualize core OS concepts through interactive modules. It offers students and learners hands-on experience with various OS algorithms and synchronization mechanisms via a dynamic console interface.
